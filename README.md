@@ -1,3 +1,5 @@
+# Tripadvisor Scraper
+Interested in using this scraper? Get it here: [Tripadvisor Scraper](https://apify.com/curious_coder/tripadvisor-scraper)
 ## How it works
 
 Scrape data from any tripadvisor page.
